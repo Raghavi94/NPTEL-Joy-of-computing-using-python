@@ -1,5 +1,5 @@
 # NPTEL-The-Joy-of-computing-using-python
 
-## This repo has programming assignment solutions of python nptel course and some games taught during the course. 
+## This repo has programming assignment solutions of Joy of computing using python NPTEL course and some games taught during the course. 
 
 
